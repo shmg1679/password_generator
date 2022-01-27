@@ -1,6 +1,5 @@
-TTP Program
+# TTP Program
+simple password generator 
 
-"# password_generator"
-"# password_generator"
-This is a repository about a password generator application
-
+## Languages used
+### python , HTML
